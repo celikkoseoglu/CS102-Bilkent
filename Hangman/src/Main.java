@@ -5,10 +5,10 @@ import java.util.Scanner;
  * @author Çelik Köeoğlu - CS102 all stars
  * @date 07/02/2015
  * @commit Caner Caliskaner - CS102 all stars
- * 		   Did a little bit of convention fixing (although it was good, David is nitpicking we all know that)
- * 		   Added a little fun pseudoGUI function to draw a stickman
- *		   Additions need some fixing though!
- * 		   08/02/2015
+ * 	   Did a little bit of convention fixing (although it was good, David is nitpicking we all know that)
+ * 	   Added a little fun pseudoGUI function to draw a stickman
+ *	   Additions need some fixing though!
+ *  	   08/02/2015
  */
 
 public class Main {
