@@ -4,6 +4,7 @@ import static java.lang.System.out;
 /**
  * @description Main class for Hangman game.
  * @author Çelik Köeoğlu - CS102 all stars
+ * @contributor Caner Caliskaner
  * @date 07/02/2015
  */
 
